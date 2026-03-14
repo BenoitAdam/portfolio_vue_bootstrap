@@ -11,7 +11,7 @@
           <img src="/allonavette.jpg" class="card-img-top" alt="Site Web">
           <div class="card-body">
             <h5 class="card-title">Allonavette</h5>
-            <p class="card-text">Service de navette et de VTC</p>
+            <p class="card-text">Service de navette et de VTC </p>
             <a href="https://www.allonavette.fr/" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
