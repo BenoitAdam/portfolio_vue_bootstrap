@@ -78,7 +78,7 @@
           <div class="card-body">
             <h5 class="card-title">NullDC4Wii</h5>
             <p class="card-text">Emulateur Sega Dreamcast pour la Nintendo Wii</p>
-            <a href="https://github.com/BenoitAdam94/nullDC4Wii" class="btn btn-primary" target="_blank">Voir le site</a>
+            <a href="https://github.com/BenoitAdam/nullDC4Wii" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
       </div>
@@ -94,7 +94,7 @@
           <div class="card-body">
             <h5 class="card-title">Github</h5>
             <p class="card-text">Mon profil GitHub et différents projets</p>
-            <a href="https://github.com/BenoitAdam94" class="btn btn-primary" target="_blank">Voir le site</a>
+            <a href="https://github.com/BenoitAdam" class="btn btn-primary" target="_blank">Voir le site</a>
           </div>
         </div>
       </div>
